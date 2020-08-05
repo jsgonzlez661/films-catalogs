@@ -1,0 +1,1095 @@
+{
+    "directors": [
+    {
+        "id": 1,
+        "fullname": "Frank Darabont"
+    },
+    {
+        "id": 2,
+        "fullname": "Francis Ford Coppola"
+    },
+    {
+        "id": 3,
+        "fullname": "Francis Ford Coppola"
+    },
+    {
+        "id": 4,
+        "fullname": "Christopher Nolan"
+    },
+    {
+        "id": 5,
+        "fullname": "Sidney Lumet"
+    },
+    {
+        "id": 6,
+        "fullname": "Steven Spielberg"
+    },
+    {
+        "id": 7,
+        "fullname": "Peter Jackson"
+    },
+    {
+        "id": 8,
+        "fullname": "Quentin Tarantino"
+    },
+    {
+        "id": 9,
+        "fullname": "Sergio Leone"
+    },
+    {
+        "id": 10,
+        "fullname": "Peter Jackson"
+    },
+    {
+        "id": 11,
+        "fullname": "David Fincher"
+    },
+    {
+        "id": 12,
+        "fullname": "Robert Zemeckis"
+    },
+    {
+        "id": 13,
+        "fullname": "Christopher Nolan"
+    },
+    {
+        "id": 14,
+        "fullname": "Irvin Kershner"
+    },
+    {
+        "id": 15,
+        "fullname": "Peter Jackson"
+    },
+    {
+        "id": 16,
+        "fullname": "Lana Wachowski"
+    },
+    {
+        "id": 16,
+        "fullname": "Lilly Wachowski"
+    },
+    {
+        "id": 17,
+        "fullname": "Martin Scorsese"
+    },
+    {
+        "id": 18,
+        "fullname": "Milos Forman"
+    },
+    {
+        "id": 19,
+        "fullname": "Akira Kurosawa"
+    },
+    {
+        "id": 20,
+        "fullname": "David Fincher"
+    },
+    {
+        "id": 21,
+        "fullname": "Roberto Benigni"
+    },
+    {
+        "id": 22,
+        "fullname": "Fernando Meirelles"
+    },
+    {
+        "id": 22,
+        "fullname": "K\u00e1tia Lund"
+    },
+    {
+        "id": 23,
+        "fullname": "Jonathan Demme"
+    },
+    {
+        "id": 24,
+        "fullname": "Frank Capra"
+    },
+    {
+        "id": 25,
+        "fullname": "George Lucas"
+    },
+    {
+        "id": 26,
+        "fullname": "Thomas Kail"
+    },
+    {
+        "id": 27,
+        "fullname": "Steven Spielberg"
+    },
+    {
+        "id": 28,
+        "fullname": "Hayao Miyazaki"
+    },
+    {
+        "id": 29,
+        "fullname": "Bong Joon Ho"
+    },
+    {
+        "id": 30,
+        "fullname": "Frank Darabont"
+    },
+    {
+        "id": 31,
+        "fullname": "Christopher Nolan"
+    },
+    {
+        "id": 32,
+        "fullname": "Luc Besson"
+    },
+    {
+        "id": 33,
+        "fullname": "Bryan Singer"
+    },
+    {
+        "id": 34,
+        "fullname": "Masaki Kobayashi"
+    },
+    {
+        "id": 35,
+        "fullname": "Roger Allers"
+    },
+    {
+        "id": 35,
+        "fullname": "Rob Minkoff"
+    },
+    {
+        "id": 36,
+        "fullname": "Robert Zemeckis"
+    },
+    {
+        "id": 37,
+        "fullname": "Roman Polanski"
+    },
+    {
+        "id": 38,
+        "fullname": "James Cameron"
+    },
+    {
+        "id": 39,
+        "fullname": "Tony Kaye"
+    },
+    {
+        "id": 40,
+        "fullname": "Charles Chaplin"
+    },
+    {
+        "id": 41,
+        "fullname": "Alfred Hitchcock"
+    },
+    {
+        "id": 42,
+        "fullname": "Ridley Scott"
+    },
+    {
+        "id": 43,
+        "fullname": "Charles Chaplin"
+    },
+    {
+        "id": 44,
+        "fullname": "Martin Scorsese"
+    },
+    {
+        "id": 45,
+        "fullname": "Olivier Nakache"
+    },
+    {
+        "id": 45,
+        "fullname": "\u00c9ric Toledano"
+    },
+    {
+        "id": 46,
+        "fullname": "Damien Chazelle"
+    },
+    {
+        "id": 47,
+        "fullname": "Christopher Nolan"
+    },
+    {
+        "id": 48,
+        "fullname": "Isao Takahata"
+    },
+    {
+        "id": 49,
+        "fullname": "Sergio Leone"
+    },
+    {
+        "id": 50,
+        "fullname": "Michael Curtiz"
+    },
+    {
+        "id": 51,
+        "fullname": "Giuseppe Tornatore"
+    },
+    {
+        "id": 52,
+        "fullname": "Alfred Hitchcock"
+    },
+    {
+        "id": 53,
+        "fullname": "Ridley Scott"
+    },
+    {
+        "id": 54,
+        "fullname": "Francis Ford Coppola"
+    },
+    {
+        "id": 55,
+        "fullname": "Christopher Nolan"
+    },
+    {
+        "id": 56,
+        "fullname": "Steven Spielberg"
+    },
+    {
+        "id": 57,
+        "fullname": "Charles Chaplin"
+    },
+    {
+        "id": 58,
+        "fullname": "Todd Phillips"
+    },
+    {
+        "id": 59,
+        "fullname": "Florian Henckel von Donnersmarck"
+    },
+    {
+        "id": 60,
+        "fullname": "Quentin Tarantino"
+    },
+    {
+        "id": 61,
+        "fullname": "Stanley Kubrick"
+    },
+    {
+        "id": 62,
+        "fullname": "Stanley Kubrick"
+    },
+    {
+        "id": 63,
+        "fullname": "Andrew Stanton"
+    },
+    {
+        "id": 64,
+        "fullname": "Anthony Russo"
+    },
+    {
+        "id": 64,
+        "fullname": "Joe Russo"
+    },
+    {
+        "id": 65,
+        "fullname": "Billy Wilder"
+    },
+    {
+        "id": 66,
+        "fullname": "Bob Persichetti"
+    },
+    {
+        "id": 66,
+        "fullname": "Peter Ramsey"
+    },
+    {
+        "id": 67,
+        "fullname": "Hayao Miyazaki"
+    },
+    {
+        "id": 68,
+        "fullname": "Billy Wilder"
+    },
+    {
+        "id": 69,
+        "fullname": "Stanley Kubrick"
+    },
+    {
+        "id": 70,
+        "fullname": "Chan-wook Park"
+    },
+    {
+        "id": 71,
+        "fullname": "Christopher Nolan"
+    },
+    {
+        "id": 72,
+        "fullname": "Sergio Leone"
+    },
+    {
+        "id": 73,
+        "fullname": "Anthony Russo"
+    },
+    {
+        "id": 73,
+        "fullname": "Joe Russo"
+    },
+    {
+        "id": 74,
+        "fullname": "James Cameron"
+    },
+    {
+        "id": 75,
+        "fullname": "Makoto Shinkai"
+    },
+    {
+        "id": 76,
+        "fullname": "Lee Unkrich"
+    },
+    {
+        "id": 76,
+        "fullname": "Adrian Molina"
+    },
+    {
+        "id": 77,
+        "fullname": "Sam Mendes"
+    },
+    {
+        "id": 78,
+        "fullname": "Mel Gibson"
+    },
+    {
+        "id": 79,
+        "fullname": "Rajkumar Hirani"
+    },
+    {
+        "id": 80,
+        "fullname": "Wolfgang Petersen"
+    },
+    {
+        "id": 81,
+        "fullname": "John Lasseter"
+    },
+    {
+        "id": 82,
+        "fullname": "Akira Kurosawa"
+    },
+    {
+        "id": 83,
+        "fullname": "Milos Forman"
+    },
+    {
+        "id": 84,
+        "fullname": "Aamir Khan"
+    },
+    {
+        "id": 84,
+        "fullname": "Amole Gupte"
+    },
+    {
+        "id": 85,
+        "fullname": "Richard Marquand"
+    },
+    {
+        "id": 86,
+        "fullname": "Quentin Tarantino"
+    },
+    {
+        "id": 87,
+        "fullname": "Quentin Tarantino"
+    },
+    {
+        "id": 88,
+        "fullname": "Gus Van Sant"
+    },
+    {
+        "id": 89,
+        "fullname": "Nadine Labaki"
+    },
+    {
+        "id": 90,
+        "fullname": "Stanley Kubrick"
+    },
+    {
+        "id": 91,
+        "fullname": "Darren Aronofsky"
+    },
+    {
+        "id": 92,
+        "fullname": "Alfred Hitchcock"
+    },
+    {
+        "id": 93,
+        "fullname": "Sam Mendes"
+    },
+    {
+        "id": 94,
+        "fullname": "Fritz Lang"
+    },
+    {
+        "id": 95,
+        "fullname": "Nitesh Tiwari"
+    },
+    {
+        "id": 96,
+        "fullname": "Michel Gondry"
+    },
+    {
+        "id": 97,
+        "fullname": "Thomas Vinterberg"
+    },
+    {
+        "id": 98,
+        "fullname": "Orson Welles"
+    },
+    {
+        "id": 99,
+        "fullname": "Stanley Kubrick"
+    },
+    {
+        "id": 100,
+        "fullname": "Vittorio De Sica"
+    },
+    {
+        "id": 101,
+        "fullname": "Stanley Kubrick"
+    },
+    {
+        "id": 102,
+        "fullname": "Alfred Hitchcock"
+    },
+    {
+        "id": 103,
+        "fullname": "Charles Chaplin"
+    },
+    {
+        "id": 104,
+        "fullname": "Guy Ritchie"
+    },
+    {
+        "id": 105,
+        "fullname": "Stanley Donen"
+    },
+    {
+        "id": 105,
+        "fullname": "Gene Kelly"
+    },
+    {
+        "id": 106,
+        "fullname": "Brian De Palma"
+    },
+    {
+        "id": 107,
+        "fullname": "Martin Scorsese"
+    },
+    {
+        "id": 108,
+        "fullname": "Jean-Pierre Jeunet"
+    },
+    {
+        "id": 109,
+        "fullname": "David Lean"
+    },
+    {
+        "id": 110,
+        "fullname": "Lee Unkrich"
+    },
+    {
+        "id": 111,
+        "fullname": "George Roy Hill"
+    },
+    {
+        "id": 112,
+        "fullname": "Akira Kurosawa"
+    },
+    {
+        "id": 113,
+        "fullname": "Fritz Lang"
+    },
+    {
+        "id": 114,
+        "fullname": "Asghar Farhadi"
+    },
+    {
+        "id": 115,
+        "fullname": "Sergio Leone"
+    },
+    {
+        "id": 116,
+        "fullname": "Denis Villeneuve"
+    },
+    {
+        "id": 117,
+        "fullname": "Billy Wilder"
+    },
+    {
+        "id": 118,
+        "fullname": "Billy Wilder"
+    },
+    {
+        "id": 119,
+        "fullname": "Robert Mulligan"
+    },
+    {
+        "id": 120,
+        "fullname": "Steven Spielberg"
+    },
+    {
+        "id": 121,
+        "fullname": "Pete Docter"
+    },
+    {
+        "id": 121,
+        "fullname": "Bob Peterson"
+    },
+    {
+        "id": 122,
+        "fullname": "Elem Klimov"
+    },
+    {
+        "id": 123,
+        "fullname": "Hrishikesh Mukherjee"
+    },
+    {
+        "id": 124,
+        "fullname": "Curtis Hanson"
+    },
+    {
+        "id": 125,
+        "fullname": "Michael Mann"
+    },
+    {
+        "id": 126,
+        "fullname": "Terry Gilliam"
+    },
+    {
+        "id": 126,
+        "fullname": "Terry Jones"
+    },
+    {
+        "id": 127,
+        "fullname": "John McTiernan"
+    },
+    {
+        "id": 128,
+        "fullname": "Akira Kurosawa"
+    },
+    {
+        "id": 129,
+        "fullname": "Akira Kurosawa"
+    },
+    {
+        "id": 130,
+        "fullname": "Christopher Nolan"
+    },
+    {
+        "id": 131,
+        "fullname": "Peter Farrelly"
+    },
+    {
+        "id": 132,
+        "fullname": "Oliver Hirschbiegel"
+    },
+    {
+        "id": 133,
+        "fullname": "Majid Majidi"
+    },
+    {
+        "id": 134,
+        "fullname": "Clint Eastwood"
+    },
+    {
+        "id": 135,
+        "fullname": "Billy Wilder"
+    },
+    {
+        "id": 136,
+        "fullname": "Akira Kurosawa"
+    },
+    {
+        "id": 137,
+        "fullname": "Hayao Miyazaki"
+    },
+    {
+        "id": 138,
+        "fullname": "John Sturges"
+    },
+    {
+        "id": 139,
+        "fullname": "Ron Howard"
+    },
+    {
+        "id": 140,
+        "fullname": "Joseph L. Mankiewicz"
+    },
+    {
+        "id": 141,
+        "fullname": "Martin Scorsese"
+    },
+    {
+        "id": 142,
+        "fullname": "Guillermo del Toro"
+    },
+    {
+        "id": 143,
+        "fullname": "Martin Scorsese"
+    },
+    {
+        "id": 144,
+        "fullname": "Juan Jos\u00e9 Campanella"
+    },
+    {
+        "id": 145,
+        "fullname": "Guy Ritchie"
+    },
+    {
+        "id": 146,
+        "fullname": "Hayao Miyazaki"
+    },
+    {
+        "id": 147,
+        "fullname": "Martin Scorsese"
+    },
+    {
+        "id": 148,
+        "fullname": "Paul Thomas Anderson"
+    },
+    {
+        "id": 149,
+        "fullname": "John Huston"
+    },
+    {
+        "id": 150,
+        "fullname": "Stanley Kramer"
+    },
+    {
+        "id": 151,
+        "fullname": "Martin McDonagh"
+    },
+    {
+        "id": 152,
+        "fullname": "\u00c7agan Irmak"
+    },
+    {
+        "id": 153,
+        "fullname": "Alfred Hitchcock"
+    },
+    {
+        "id": 154,
+        "fullname": "Charles Chaplin"
+    },
+    {
+        "id": 155,
+        "fullname": "Roman Polanski"
+    },
+    {
+        "id": 156,
+        "fullname": "James McTeigue"
+    },
+    {
+        "id": 157,
+        "fullname": "Ethan Coen"
+    },
+    {
+        "id": 157,
+        "fullname": "Joel Coen"
+    },
+    {
+        "id": 158,
+        "fullname": "Martin Scorsese"
+    },
+    {
+        "id": 159,
+        "fullname": "Ingmar Bergman"
+    },
+    {
+        "id": 160,
+        "fullname": "Pete Docter"
+    },
+    {
+        "id": 160,
+        "fullname": "Ronnie Del Carmen"
+    },
+    {
+        "id": 161,
+        "fullname": "Gavin O'Connor"
+    },
+    {
+        "id": 162,
+        "fullname": "David Lynch"
+    },
+    {
+        "id": 163,
+        "fullname": "Danny Boyle"
+    },
+    {
+        "id": 164,
+        "fullname": "M. Night Shyamalan"
+    },
+    {
+        "id": 165,
+        "fullname": "John Carpenter"
+    },
+    {
+        "id": 166,
+        "fullname": "Steven Spielberg"
+    },
+    {
+        "id": 167,
+        "fullname": "Victor Fleming"
+    },
+    {
+        "id": 167,
+        "fullname": "George Cukor"
+    },
+    {
+        "id": 168,
+        "fullname": "Ingmar Bergman"
+    },
+    {
+        "id": 169,
+        "fullname": "Ridley Scott"
+    },
+    {
+        "id": 170,
+        "fullname": "Andrew Stanton"
+    },
+    {
+        "id": 170,
+        "fullname": "Lee Unkrich"
+    },
+    {
+        "id": 171,
+        "fullname": "Lenny Abrahamson"
+    },
+    {
+        "id": 172,
+        "fullname": "Peter Weir"
+    },
+    {
+        "id": 173,
+        "fullname": "David Lean"
+    },
+    {
+        "id": 174,
+        "fullname": "Andrei Tarkovsky"
+    },
+    {
+        "id": 175,
+        "fullname": "Quentin Tarantino"
+    },
+    {
+        "id": 176,
+        "fullname": "Joel Coen"
+    },
+    {
+        "id": 176,
+        "fullname": "Ethan Coen"
+    },
+    {
+        "id": 177,
+        "fullname": "Carol Reed"
+    },
+    {
+        "id": 178,
+        "fullname": "Elia Kazan"
+    },
+    {
+        "id": 179,
+        "fullname": "Clint Eastwood"
+    },
+    {
+        "id": 180,
+        "fullname": "Yasujir\u00f4 Ozu"
+    },
+    {
+        "id": 181,
+        "fullname": "Bong Joon Ho"
+    },
+    {
+        "id": 182,
+        "fullname": "Michael Cimino"
+    },
+    {
+        "id": 183,
+        "fullname": "Dami\u00e1n Szifron"
+    },
+    {
+        "id": 184,
+        "fullname": "Sriram Raghavan"
+    },
+    {
+        "id": 185,
+        "fullname": "Sergio Pablos"
+    },
+    {
+        "id": 185,
+        "fullname": "Carlos Mart\u00ednez L\u00f3pez"
+    },
+    {
+        "id": 186,
+        "fullname": "Jim Sheridan"
+    },
+    {
+        "id": 187,
+        "fullname": "Adam Elliot"
+    },
+    {
+        "id": 188,
+        "fullname": "Joel Coen"
+    },
+    {
+        "id": 188,
+        "fullname": "Ethan Coen"
+    },
+    {
+        "id": 189,
+        "fullname": "David Fincher"
+    },
+    {
+        "id": 190,
+        "fullname": "Yavuz Turgul"
+    },
+    {
+        "id": 191,
+        "fullname": "Mel Gibson"
+    },
+    {
+        "id": 192,
+        "fullname": "Wes Anderson"
+    },
+    {
+        "id": 193,
+        "fullname": "Richard Linklater"
+    },
+    {
+        "id": 194,
+        "fullname": "Steven Spielberg"
+    },
+    {
+        "id": 195,
+        "fullname": "Ingmar Bergman"
+    },
+    {
+        "id": 196,
+        "fullname": "Ernst Lubitsch"
+    },
+    {
+        "id": 197,
+        "fullname": "James Mangold"
+    },
+    {
+        "id": 198,
+        "fullname": "Clyde Bruckman"
+    },
+    {
+        "id": 198,
+        "fullname": "Buster Keaton"
+    },
+    {
+        "id": 199,
+        "fullname": "Dean DeBlois"
+    },
+    {
+        "id": 199,
+        "fullname": "Chris Sanders"
+    },
+    {
+        "id": 200,
+        "fullname": "Denis Villeneuve"
+    },
+    {
+        "id": 201,
+        "fullname": "Buster Keaton"
+    },
+    {
+        "id": 202,
+        "fullname": "Frank Capra"
+    },
+    {
+        "id": 203,
+        "fullname": "Steve McQueen"
+    },
+    {
+        "id": 204,
+        "fullname": "Stanley Kubrick"
+    },
+    {
+        "id": 205,
+        "fullname": "George Miller"
+    },
+    {
+        "id": 206,
+        "fullname": "Rob Reiner"
+    },
+    {
+        "id": 207,
+        "fullname": "Sidney Lumet"
+    },
+    {
+        "id": 208,
+        "fullname": "Stuart Rosenberg"
+    },
+    {
+        "id": 209,
+        "fullname": "Clint Eastwood"
+    },
+    {
+        "id": 210,
+        "fullname": "Sean Penn"
+    },
+    {
+        "id": 211,
+        "fullname": "Lasse Hallstr\u00f6m"
+    },
+    {
+        "id": 212,
+        "fullname": "Henri-Georges Clouzot"
+    },
+    {
+        "id": 213,
+        "fullname": "William Wyler"
+    },
+    {
+        "id": 214,
+        "fullname": "Peter Weir"
+    },
+    {
+        "id": 215,
+        "fullname": "Oliver Stone"
+    },
+    {
+        "id": 216,
+        "fullname": "Terry Jones"
+    },
+    {
+        "id": 217,
+        "fullname": "David Yates"
+    },
+    {
+        "id": 218,
+        "fullname": "James Mangold"
+    },
+    {
+        "id": 219,
+        "fullname": "Ron Howard"
+    },
+    {
+        "id": 220,
+        "fullname": "Jules Dassin"
+    },
+    {
+        "id": 221,
+        "fullname": "Carl Theodor Dreyer"
+    },
+    {
+        "id": 222,
+        "fullname": "Chan-wook Park"
+    },
+    {
+        "id": 223,
+        "fullname": "Fran\u00e7ois Truffaut"
+    },
+    {
+        "id": 224,
+        "fullname": "Terry George"
+    },
+    {
+        "id": 225,
+        "fullname": "Andrei Tarkovsky"
+    },
+    {
+        "id": 226,
+        "fullname": "Alejandro G. I\u00f1\u00e1rritu"
+    },
+    {
+        "id": 227,
+        "fullname": "Tom McCarthy"
+    },
+    {
+        "id": 228,
+        "fullname": "Rakeysh Omprakash Mehra"
+    },
+    {
+        "id": 229,
+        "fullname": "Hayao Miyazaki"
+    },
+    {
+        "id": 230,
+        "fullname": "John G. Avildsen"
+    },
+    {
+        "id": 231,
+        "fullname": "Mathieu Kassovitz"
+    },
+    {
+        "id": 232,
+        "fullname": "Pete Docter"
+    },
+    {
+        "id": 232,
+        "fullname": "David Silverman"
+    },
+    {
+        "id": 233,
+        "fullname": "Alfred Hitchcock"
+    },
+    {
+        "id": 234,
+        "fullname": "Anurag Kashyap"
+    },
+    {
+        "id": 235,
+        "fullname": "C\u00e9line Sciamma"
+    },
+    {
+        "id": 236,
+        "fullname": "Charles Chaplin"
+    },
+    {
+        "id": 237,
+        "fullname": "Frank Capra"
+    },
+    {
+        "id": 238,
+        "fullname": "Richard Linklater"
+    },
+    {
+        "id": 239,
+        "fullname": "Kar-Wai Wong"
+    },
+    {
+        "id": 240,
+        "fullname": "Wim Wenders"
+    },
+    {
+        "id": 241,
+        "fullname": "Nishikant Kamat"
+    },
+    {
+        "id": 242,
+        "fullname": "Tate Taylor"
+    },
+    {
+        "id": 243,
+        "fullname": "Oriol Paulo"
+    },
+    {
+        "id": 244,
+        "fullname": "Rob Reiner"
+    },
+    {
+        "id": 245,
+        "fullname": "James Cameron"
+    },
+    {
+        "id": 246,
+        "fullname": "Gillo Pontecorvo"
+    },
+    {
+        "id": 247,
+        "fullname": "Akira Kurosawa"
+    },
+    {
+        "id": 248,
+        "fullname": "Ashutosh Gowariker"
+    },
+    {
+        "id": 249,
+        "fullname": "Priyadarshan"
+    },
+    {
+        "id": 250,
+        "fullname": "Ron Clements"
+    },
+    {
+        "id": 250,
+        "fullname": "John Musker"
+    }]
+}

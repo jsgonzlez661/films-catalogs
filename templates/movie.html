@@ -1,0 +1,36 @@
+{% extends 'layout.html' %}
+{% block content %}
+<div class="container">
+    <div class="row mt-4">
+        <div class="col-sm-12">
+            <h1>{{ movie['title']}}</h1>
+        </div>
+    </div>
+    <div class="row rounded mb-0 mx-2 mx-sm-0">
+        <div class="col-sm-3 col-12 text-center">
+            <img class="my-3 ml-3 img-fluid rounded" src={{ movie['poster'] }} alt="Card image cap">
+        </div>
+        <div class="col-sm-9 col-12 my-3 text-left">
+            {% for genre in genres %}
+            <span class="badge badge-primary z-depth-0"><a href="/genre/{{genre['genrename']}}" class="text-white">{{genre['genrename']}}</a></span>
+            {% endfor %}
+            <div class="my-3">
+                <h5><i class="fas fa-star"></i> {{movie['imdb_rating']}}</h5>
+                <h5 class="">Year: {{ movie['year']}} </h5>
+                <h5>Runtime: {{ movie['runtime'] }}</h5>
+                <h5 class="text-justify">Synopsis: {{ movie['synopsis'] }}</h5>
+            </div>
+            <span class=""><strong>Directors:</strong></span>
+            {% for director in directors %}
+            <span class="badge badge-secondary z-depth-0">{{director['fullname']}}</span>
+            {% endfor %}
+            <br>
+            <span class=""><strong>Actors: </strong></span>
+            {% for actor in actors %}
+            <span class="badge badge-secondary z-depth-0">{{actor['fullname']}}</span>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+</div>
+{% endblock %}

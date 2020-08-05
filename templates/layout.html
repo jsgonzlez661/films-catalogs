@@ -1,0 +1,60 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Films Catalogs</title>
+    <link rel="stylesheet" href="{{url_for('static' , filename='css/app.css')}}">
+    <link rel="stylesheet" href="{{url_for('static' , filename='css/bootstrap.min.css')}}">
+    <link rel="stylesheet" href="{{url_for('static' , filename='css/mdb.min.css')}}">
+    <link rel="stylesheet" href="{{url_for('static' , filename='css/bootnavbar.css')}}">
+    <link rel="shortcut icon" href="{{ url_for('static', filename='img/favicon.ico') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Recursive:wght@700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+    <style type="text/css">
+    h1,
+    a,
+    .fontgo {
+        font-family: 'Recursive', sans-serif;
+    }
+    </style>
+</head>
+
+<body onload="hideSpinner()">
+    <nav class="navbar navbar-expand-lg navbar-dark primary-color fontgo ">
+        <a class="navbar-brand" href="/"><i class="fas fa-video"></i> Films Catalogs</a>
+        <button class="navbar-toggler multi-level-dropdown" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <div class="navbar-nav">
+                <div class="nav-item">
+                    <a class="nav-link text-white" href="/">Home</a>
+                </div>
+            </div>
+        </div>
+        <div class="collapse navbar-collapse d-sm-flex justify-content-end" id="navbarNav">
+            <form class="form-inline mt-1 mb-0 navbar-nav" method="POST" action="/search">
+                <input class="form-control form-control-sm mr-3 ml-0" type="text" placeholder="Search by title" aria-label="Search" name="search">
+                <button class="btn primary-color m-0 b-0 z-depth-1 btn-block-sm" type="submit"><i class="fas fa-search" aria-hidden="true"></i></button>
+            </form>
+        </div>
+    </nav>
+    {% block content %}
+    {% endblock %}
+    <!-- Footer -->
+    <footer class="page-footer font-small primary-color mt-4">
+        <!-- Copyright -->
+        <div class=" text-center py-3">©2020 Copyright:
+            <a href="https://github.com/jsgonzlez661"><i class="fab fa-github"></i> jsgonzlez661</a>
+        </div>
+        <!-- Copyright -->
+    </footer>
+    <!-- Footer -->
+    <script src="{{url_for('static' , filename='js/jquery-3.3.1.min.js')}}"></script>
+    <script src="{{url_for('static' , filename='js/popper.min.js')}}"></script>
+    <script src="{{url_for('static' , filename='js/bootstrap.min.js')}}"></script>
+    <script src="{{url_for('static' , filename='js/mdb.min.js')}}"></script>
+    <script src="{{url_for('static' , filename='js/spinner.js')}}"></script>
+</body>
+
+</html>

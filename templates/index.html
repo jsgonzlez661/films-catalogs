@@ -1,0 +1,80 @@
+{% extends 'layout.html' %}
+{% block content %}
+<div class="container">
+    <div class="row mt-4">
+        <div class="col-12">
+            <h1><i class="fas fa-film"></i> Top 250 best movies</h1>
+            <br>
+            {% for genre in genres %}
+            <span class="badge badge-primary z-depth-0"><a href="/genre/{{genre}}" class="text-white">{{genre}}</a></span>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="text-center" style="margin-top: 3.5rem;" id="spinner-load">
+        <!--Big blue-->
+        <div class="preloader-wrapper active">
+            <div class="spinner-layer spinner-blue-only">
+                <div class="circle-clipper left">
+                    <div class="circle"></div>
+                </div>
+                <div class="gap-patch">
+                    <div class="circle"></div>
+                </div>
+                <div class="circle-clipper right">
+                    <div class="circle"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="mt-4 ">
+        <div class="row m-2 row-cols-2" id="movies-load" style="visibility: hidden;">
+            {% for movie in movies %}
+            <div class="col-4 col-sm-2 mb-1">
+                <a href="/movie/{{movie['title']}}">
+                    <img class=" card img-fluid example hoverable" src={{ movie['poster'] }} alt="Card image cap">
+                </a>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="row mt-4">
+        <div class="col-12">
+            <nav aria-label="Page navigation example">
+                <ul class="pagination pg-blue justify-content-center">
+                    <li class="page-item">
+                        {% if page != 1 %}
+                        <a class="page-link" aria-label="Previous" href="/?page={{page-1}}">
+                            <span aria-hidden="true">&laquo;</span>
+                        </a>
+                        {% else %}
+                        <a class="page-link" aria-label="Previous" href="/?page={{page}}">
+                            <span aria-hidden="true">&laquo;</span>
+                        </a>
+                        {% endif %}
+                    </li>
+                    {% for i in range(1,12) %}
+                    {% if i == page %}
+                    <li class="page-item active">
+                        <a class="page-link" href="/?page={{i}}">{{i}}<span class="sr-only">(current)</span></a>
+                    </li>
+                    {% else %}
+                    <li class="page-item"><a class="page-link" href="/?page={{i}}">{{i}}</a></li>
+                    {% endif %}
+                    {% endfor %}
+                    <li class="page-item">
+                        {% if page != 11 %}
+                        <a class="page-link" aria-label="Next" href="/?page={{page+1}}">
+                            <span aria-hidden="true">&raquo;</span>
+                        </a>
+                        {% else %}
+                        <a class="page-link" aria-label="Next" href="/?page={{page}}">
+                            <span aria-hidden="true">&raquo;</span>
+                        </a>
+                        {% endif %}
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div>
+{% endblock %}
