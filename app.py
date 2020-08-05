@@ -16,25 +16,25 @@ class JSON():  # jsgonzlez661: Class for manager files json
 
     @classmethod
     def movies(cls):  # jsgonzlez661: Load file movies.json
-        with open('static\\json\\movies.json') as file_json:
+        with open('static/json/movies.json') as file_json:
             movies = json.load(file_json)
             return movies
 
     @classmethod
     def genres(cls):  # jsgonzlez661: Load file genres.json
-        with open('static\\json\\genres.json') as file_json:
+        with open('static/json/genres.json') as file_json:
             genres = json.load(file_json)
             return genres
 
     @classmethod
     def actors(cls):  # jsgonzlez661: Load file actors.json
-        with open('static\\json\\actors.json') as file_json:
+        with open('static/json/actors.json') as file_json:
             actors = json.load(file_json)
             return actors
 
     @classmethod
     def directors(cls):  # jsgonzlez661: Load file directors.json
-        with open('static\\json\\directors.json') as file_json:
+        with open('static/json/directors.json') as file_json:
             directors = json.load(file_json)
             return directors
 
